@@ -45,7 +45,35 @@ Antécédents familiaux (0=Non, 1=Oui)
 et finalement la partie des questions fréquentes et les réponses :
 ![image](https://github.com/user-attachments/assets/9e5040c4-85db-4493-8aa5-d3220ef99b70)
 
+## Prérequis
 
+- Python 3.8 ou supérieur  
+- Git (pour cloner le dépôt)  
+- Jupyter Notebook (installé via les dépendances)
+## Les etapes a suivre pour tester l'application :
 
+1. Cloner le dépôt:
 
+   ```bash
+   git clone https://github.com/NsiriNour/projet-fin-d-ann-e-
+   cd projet-fin-d-ann-e-
+   ```
+
+2. Installer les dépendances:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. lancer jupyter notebook:
+
+   ```bash
+   jupyter notebook
+   ```
+Une fois Jupyter ouvert dans votre navigateur, ouvrez le fichier projet fin d'annee.ipynb.
+
+Exécutez les cellules du notebook pour lancer l'application et accéder à l'interface web 
+
+port par défaut : http://127.0.0.1:8063
+---
 
