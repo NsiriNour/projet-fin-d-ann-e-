@@ -1,12 +1,17 @@
 # Tableau de bord pour l'analyse des données 
 Déverrouillez vos analyses facilement. 
+
 Ce tableau de bord, construit avec Dash et Plotly, permet aux data scientists, analystes et étudiants d'effectuer des tests statistiques (t-test, Shapiro-Wilk, Chi-squared, ANOVA) et de visualiser les résultats via des graphiques interactifs, le tout dans une interface web élégante.
 # Les fonctions de ce tableauu de bord :
 permet de :
 📂 Importez facilement vos fichiers CSV ou Excel en un seul clic pour commencer .
+
 📊Analysez vos données en profondeur grâce à des visualisations interactives et des outils puissants .
+
 Gérez les données manquantes en utilisant des méthodes statistiques comme la moyenne, la médiane, ou même des algorithmes avancés .
+
 🔍Effectuez des tests statistiques pour découvrir des relations significatives dans vos données .
+
 Obtenez des prédictions avancées avec des modèles d'apprentissage automatique pour la maladie d'Alzheimer  en quelques étapes simples .
 # Guide 
 1- cliquez sur commencer l'exploration 
@@ -26,8 +31,10 @@ Obtenez des prédictions avancées avec des modèles d'apprentissage automatique
 8- Sélectionnez le type de test que vous voulez le faire :
 ![image](https://github.com/user-attachments/assets/8bea6129-f797-4e2e-a571-c3f6b3807988)
 9- la partie de la prediction pour la maladie  d'Alzheimer avec le modéle Random Forest :
-vous pouvez soit chargez un fichier qui content les données d'un patient et cliquez sur prédire pour voir les résultats de la prediction si le patient il est malade ou pas avec un niveau de confiance et aussi un echelle qui exprime le risque d'etre malade 
+vous pouvez soit chargez un fichier qui content les données d'un patient et cliquez sur prédire pour voir les résultats de la prediction si le patient il est malade ou pas avec un niveau de confiance et aussi un echelle qui exprime le risque d'etre malade .
+
 ou bien vous pouvez faire une prediction manuelle en ecrivant les données nécessaires pour le patient 
+
 NB: le fichier doit avoir ces données :
 Âge
 Score MMSE (0-30)
