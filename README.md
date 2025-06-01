@@ -55,8 +55,8 @@ et finalement la partie des questions fréquentes et les réponses :
 1. Cloner le dépôt:
 
    ```bash
-   git clone https://github.com/NsiriNour/projet-fin-d-ann-e-
-   cd projet-fin-d-ann-e-
+   git clone https://github.com/NsiriNour/Tableau_de_bord_
+   cd Tableau_de_bord_
    ```
 
 2. Installer les dépendances:
