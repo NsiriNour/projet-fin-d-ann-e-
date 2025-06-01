@@ -1,3 +1,3 @@
-# Projet-fin-d annee 
-mon projet de fin d'année en première année cycle ingénieur porte sur la création d'un tableau de bord interactif:
-L'application permet aux utilisateurs d'uploader des fichiers de données (comme des CSV), d'effectuer des tests statistiques (t-test, test de normalité Shapiro-Wilk, test Chi-squared, ANOVA) et de visualiser les résultats sous forme de graphiques interactifs.
+#Tableau de bord pour l'analyse des données 
+Déverrouillez vos analyses facilement. 
+Ce tableau de bord, construit avec Dash et Plotly, permet aux data scientists, analystes et étudiants d'effectuer des tests statistiques (t-test, Shapiro-Wilk, Chi-squared, ANOVA) et de visualiser les résultats via des graphiques interactifs, le tout dans une interface web élégante.
